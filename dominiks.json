@@ -8,11 +8,11 @@
     },
     "outdoor": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/outdoor/tiles.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL"
+      "url": "https://api.maptiler.com/tiles/outdoor/tiles.json?key=BsTM7suz6lSm9brLZS34"
     },
     "maptiler_planet_v4": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v4/tiles.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL"
+      "url": "https://api.maptiler.com/tiles/v4/tiles.json?key=BsTM7suz6lSm9brLZS34"
     }
   },
   "layers": [
