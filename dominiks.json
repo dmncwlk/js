@@ -10025,7 +10025,7 @@
     },
     "maputnik:renderer": "mlgljs"
   },
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=key=BsTM7suz6lSm9brLZS34",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=BsTM7suz6lSm9brLZS34",
   "sprite": "https://api.maptiler.com/maps/outdoor-v2/sprite?key=BsTM7suz6lSm9brLZS34",
   "bearing": 0,
   "pitch": 0,
