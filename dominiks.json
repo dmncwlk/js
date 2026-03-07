@@ -326,7 +326,7 @@
   "pitch": 0,
   "sources": {
     "openmaptiles": {
-      "url": "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=BsTM7suz6lSm9brLZS34",
       "type": "vector"
     },
     "outdoor": {
@@ -339,7 +339,7 @@
     }
   },
   "sprite": "https://api.maptiler.com/maps/outdoor-v2/sprite?key=BsTM7suz6lSm9brLZS34",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=BsTM7suz6lSm9brLZS34"",
   "layers": [
     {
       "id": "Background",
